@@ -228,17 +228,17 @@
       <ThemeView3D grid="#272727"
                    wire="#819495"
                    wire_edit="#005766"
-                   lamp="#00000028"
+                   lamp="#857a6928"
                    speaker="#000000"
-                   camera="#000000"
+                   camera="#383838"
                    view_overlay="#000000"
                    empty="#000000"
                    object_selected="#ff8500"
-                   object_active="#ffc280"
+                   object_active="#ffc05c"
                    object_grouped="#083008"
                    object_grouped_active="#55bb55"
                    transform="#ffffff"
-                   vertex="#657780"
+                   vertex="#0097ff"
                    vertex_select="#ff7c00"
                    vertex_size="3"
                    vertex_unreferenced="#000000"
@@ -281,7 +281,9 @@
                    outline_width="1"
                    bundle_solid="#c8c8c8"
                    camera_path="#000000"
-                   skin_root="#000000">
+                   skin_root="#000000"
+                   paint_curve_handle="#7fff7f7f"
+                   paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGradient title="#000000"
                               text="#b8b8b8"
@@ -555,7 +557,9 @@
                         handle_sel_auto="#f0ff40"
                         handle_sel_align="#f090a0"
                         handle_auto_clamped="#000000"
-                        handle_sel_auto_clamped="#000000">
+                        handle_sel_auto_clamped="#000000"
+                        paint_curve_handle="#7fff7f7f"
+                        paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGeneric back="#09161d"
                              title="#8b8b8b"
